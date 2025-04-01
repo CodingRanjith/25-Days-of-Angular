@@ -64,6 +64,8 @@ npm install -g @angular/cli
 # Create a new Angular project
 ng new project-name
 
+ng  - Next generation
+
 # Navigate into project folder
 cd project-name
 
