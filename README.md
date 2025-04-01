@@ -1,3 +1,24 @@
+<div align="center">
+<img  height="100%"  src="https://i.ibb.co/xHcKscf/E-Pushparaj.jpg" />
+</div>
+
+<div align="center">
+
+  <h1>25 Days of Angular</h1>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/coding-ranjith">
+    <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
+
+  <a class="header-badge" target="_blank" href="https://youtube.com/@coding-ranjith">
+    <img src="https://img.shields.io/badge/style--5eba00.svg?label=Youtube&logo=youtube&style=social">
+  </a>
+
+  <sub>Author: <a href="https://www.linkedin.com/in/coding-ranjith" target="_blank">Coding Ranjith</a></sub><br>
+  <small>August to September, 2023</small>
+
+</div>
+
+
 # 🚀 25-Day Angular Mastery Challenge
 
 Welcome to the **25-Day Angular Mastery Challenge** – a power-packed journey designed to take you from beginner to confident Angular developer. Each day includes learning goals, mini projects, and ideas for sharing your progress online.
@@ -66,19 +87,6 @@ Welcome to the **25-Day Angular Mastery Challenge** – a power-packed journey d
 - Recap post idea: "25 Days of Angular – What I Learned"
 - Share GitHub repo, insights, and a recorded demo
 
----
-
-### 💡 Tip for Daily Sharing
-Use a format like:
-```markdown
-✅ Day X of #25DaysOfAngular
-📌 Topic: XYZ
-🛠️ What I built: Short description
-📸 Screenshot / GitHub link
-🧠 Insight: 1 thing I learned today
-```
-
----
 
 Happy coding! 💻✨
 
